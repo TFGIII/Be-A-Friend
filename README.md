@@ -1,10 +1,17 @@
 # Be-A-Friend
+
 1)Title
+
 2)Description
+
 3)Project Status
+
 4)User Stories
+
 5)Solution Architecture Diagram
+
 6)Use Case Diagram
+
 7)Solution Architecture Diagram
 
 
