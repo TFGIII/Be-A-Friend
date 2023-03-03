@@ -8,6 +8,8 @@
 6. Use Case Diagram
 7. Solution Architecture Diagram
 8. Requirements Table
+9. ERD Diagram
+10. UML Diagram
 
 
 
@@ -58,3 +60,14 @@ A user adds new friends to the app after their first day of high school adding w
 | 3 | The calendar page will provide functionality that shall display the month, days of the month, and highlight important events with the friend’s name noted  |
 | 4 | The app shall allow the user to delete, edit, and add a friend detailing the information of that friend such as name, birthday, age, likes and dislikes, as well as important dates |
 | 5 | The app will allow a user to delete their account at anytime. This would cause their information and the friend list to be deleted from the database |
+
+
+## 9. ERD Diagram
+![ERD](https://user-images.githubusercontent.com/98199592/222756622-0b358bdc-2ca2-41ff-b238-2c19a21758e0.png)
+
+
+## 10. UML Diagram
+![UML Diagram](https://user-images.githubusercontent.com/98199592/222756731-b4f2783e-486d-4089-a591-cdbc14320879.png)
+
+
+
