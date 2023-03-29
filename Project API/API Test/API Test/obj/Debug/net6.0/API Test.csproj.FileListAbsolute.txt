@@ -1,0 +1,32 @@
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\bin\Debug\net6.0\appsettings.json
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\bin\Debug\net6.0\API Test.exe
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\bin\Debug\net6.0\API Test.deps.json
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\bin\Debug\net6.0\API Test.runtimeconfig.json
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\bin\Debug\net6.0\API Test.dll
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\bin\Debug\net6.0\API Test.pdb
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\obj\Debug\net6.0\API Test.csproj.AssemblyReference.cache
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\obj\Debug\net6.0\API Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\obj\Debug\net6.0\API Test.AssemblyInfoInputs.cache
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\obj\Debug\net6.0\API Test.AssemblyInfo.cs
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\obj\Debug\net6.0\API Test.csproj.CoreCompileInputs.cache
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\obj\Debug\net6.0\API Test.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\obj\Debug\net6.0\API Test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\obj\Debug\net6.0\staticwebassets\msbuild.API Test.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\obj\Debug\net6.0\staticwebassets\msbuild.build.API Test.props
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API Test.props
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API Test.props
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\obj\Debug\net6.0\scopedcss\bundle\API Test.styles.css
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\obj\Debug\net6.0\API Test.csproj.CopyComplete
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\obj\Debug\net6.0\API Test.dll
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\obj\Debug\net6.0\refint\API Test.dll
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\obj\Debug\net6.0\API Test.pdb
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\obj\Debug\net6.0\API Test.genruntimeconfig.cache
+C:\Users\TT\Documents\School Things\Bachelor's Progamming\TheBigProject\Project API\API Test\API Test\obj\Debug\net6.0\ref\API Test.dll
