@@ -10,6 +10,7 @@
 8. Requirements Table
 9. ERD Diagram
 10. UML Diagram
+11. Data Access Layer
 
 
 
@@ -69,5 +70,8 @@ A user adds new friends to the app after their first day of high school adding w
 ## 10. UML Diagram
 ![UML Diagram](https://user-images.githubusercontent.com/98199592/222756731-b4f2783e-486d-4089-a591-cdbc14320879.png)
 
+
+## 10. Data Access Layer
+![API Test](https://user-images.githubusercontent.com/98199592/228595096-fadfef6d-9c99-4e38-bd0f-e092f3f5b012.png)
 
 
